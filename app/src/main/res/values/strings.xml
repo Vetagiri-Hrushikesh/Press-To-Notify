@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Press To Notify</string>
+    <array name="menuOptions">
+        <item>SOS</item>
+        <item>Employees List</item>
+        <item>Drivers List</item>
+        <item>Created</item>
+        <item>Read</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>

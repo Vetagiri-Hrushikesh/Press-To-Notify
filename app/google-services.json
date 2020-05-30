@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523620072175",
+    "firebase_url": "https://press-to-notify-1c68c.firebaseio.com",
+    "project_id": "press-to-notify-1c68c",
+    "storage_bucket": "press-to-notify-1c68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523620072175:android:7a67d401eaa158c40f791a",
+        "android_client_info": {
+          "package_name": "com.praful.presstonotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523620072175-8von8lpf8hm3ujn17ck3knem294994ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praful.presstonotify",
+            "certificate_hash": "1f98bf20bdd98f6f27573d974ab736428350af98"
+          }
+        },
+        {
+          "client_id": "523620072175-6k15st7mqfvddkvgl3e3lj5i0nfe1kvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7z9NyEUBChrRlw5Lk8qm45_bvpb8l4Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523620072175-6k15st7mqfvddkvgl3e3lj5i0nfe1kvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
